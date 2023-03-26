@@ -1,0 +1,88 @@
+name: Rider
+description: A new Flutter project.
+
+version: 1.0.0+2
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  mvc_pattern:
+  adaptive_theme:
+  global_configuration: ^2.0.0-nullsafety.1
+  flutter_secure_storage:
+  fluttertoast:
+  font_awesome_flutter:
+  awesome_notifications:
+  cupertino_icons:
+  flutter_html: ^3.0.0-alpha.5
+  auto_size_text:
+  brasil_fields:
+  firebase_messaging:
+  firebase_core:
+  firebase_analytics:
+  url_launcher:
+  sign_button:
+  google_sign_in:
+  validators:
+  google_place:
+  flutter_typeahead:
+  cached_network_image:
+  select_dialog:
+  image_picker:
+  permission_handler:
+  loader_overlay:
+  timeline_tile:
+  flutter_switch:
+  flutter_stripe:
+  webview_flutter:
+  flutter_launcher_icons: ^0.12.0
+  change_app_package_name:
+  location:
+  google_maps_flutter:
+  place_picker:
+  avatar_glow:
+  bubble:
+  file_picker:
+  mime:
+  flutter_polyline_points:
+
+  flutter_localizations:
+    sdk: flutter
+  maps_launcher:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/img/logo.png"
+  remove_alpha_ios: true
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  assets:
+    - assets/cfg/
+    - assets/img/
+
+  generate: true
+
+  uses-material-design: true
+
+  fonts:
+   - family: CM Sans Serif
+     fonts:
+       - asset: assets/fonts/cm_sans_serif_2012.ttf
+   - family: Uber
+     fonts:
+       - asset: assets/fonts/ClanOT-Medium.ttf
+       - asset: assets/fonts/ClanOT-Bold.ttf
+         weight: 700
