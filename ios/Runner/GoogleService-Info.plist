@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>21434577467-mp0rbcsfgs7hcepjeb6m453lqrgf89od.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.178621609604-iedcf32oj7puh7l5vqlkqd13mla6q855</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeDRu7NFLpTcaIl-v0AFX_Y85Xh8uN938</string>
+	<key>GCM_SENDER_ID</key>
+	<string>21434577467</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.skttech.eightyninerider</string>
+	<key>PROJECT_ID</key>
+	<string>ride-man-cd318</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ride-man-cd318.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:21434577467:android:dd343b03336d8f5fd1a21e</string>
+</dict>
+</plist>

@@ -23,8 +23,8 @@ Future<void> main() async {
     ],
     channelGroups: [
       NotificationChannelGroup(
-          channelGroupkey: 'high_importance_channel_group',
-          channelGroupName: 'Important group')
+
+          channelGroupName: 'Important group', channelGroupkey: 'high_importance_channel_group', )
     ],
     debug: true,
   );

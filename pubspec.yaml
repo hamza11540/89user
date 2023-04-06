@@ -21,7 +21,8 @@ dependencies:
   flutter_html: ^3.0.0-alpha.5
   auto_size_text:
   brasil_fields:
-  firebase_messaging:
+  firebase_messaging: ^11.2.4
+  firebase_core_platform_interface: 4.5.1
   firebase_core:
   firebase_analytics:
   url_launcher:
@@ -38,7 +39,7 @@ dependencies:
   timeline_tile:
   flutter_switch:
   flutter_stripe:
-  webview_flutter:
+  webview_flutter: ^3.0.4
   flutter_launcher_icons: ^0.12.0
   change_app_package_name:
   location:
@@ -53,6 +54,10 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   maps_launcher:
+
+
+
+
 
 dev_dependencies:
   flutter_test:

@@ -39,10 +39,10 @@ class Helper {
       style: {
         "*": Style(
           padding: EdgeInsets.all(0),
-          margin: EdgeInsets.all(0),
+          // margin: EdgeInsets.all(0),
           fontSize: FontSize(12.0),
-          display: Display.INLINE_BLOCK,
-          width: MediaQuery.of(context).size.width,
+          // display: Display.INLINE_BLOCK,
+          // width: MediaQuery.of(context).size.width,
         ),
         "h4,h5,h6": Style(
           fontSize: FontSize(18.0),
@@ -51,7 +51,7 @@ class Helper {
           fontSize: FontSize.xLarge,
         ),
         "br": Style(
-          height: 0,
+          // height: 0,
         ),
         "p": Style(
           fontSize: FontSize(16.0),

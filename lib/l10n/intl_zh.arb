@@ -172,7 +172,7 @@
   "sendingRide": "派车",
   "rideCreated": "已创建骑行",
   "returnn": "返回",
-  "awaitingSomething": "等待{某事}",
+
   "@awaitingSomething": {
     "placeholders": {
       "something": {
