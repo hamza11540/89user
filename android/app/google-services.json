@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "894976499984",
+    "project_id": "rider-8704e",
+    "storage_bucket": "rider-8704e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894976499984:android:545eb6172255a61c60c595",
+        "android_client_info": {
+          "package_name": "com.branchminer.flubbercustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894976499984-vr1nhc4fm9fpsu5acne6okcrtg95e1hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC38c-jpmJAnWu5xddnOzo1U8Fln5m5Jzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894976499984-vr1nhc4fm9fpsu5acne6okcrtg95e1hk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "894976499984-b58utp2d6io9e3f0ck519lg4b0re3bcj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.skttech.eightyninerider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894976499984:android:2511101b3e3a9e4260c595",
+        "android_client_info": {
+          "package_name": "com.skttech.eightyninerider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894976499984-vr1nhc4fm9fpsu5acne6okcrtg95e1hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC38c-jpmJAnWu5xddnOzo1U8Fln5m5Jzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894976499984-vr1nhc4fm9fpsu5acne6okcrtg95e1hk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "894976499984-b58utp2d6io9e3f0ck519lg4b0re3bcj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.skttech.eightyninerider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
